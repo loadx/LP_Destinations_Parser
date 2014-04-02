@@ -50,9 +50,10 @@ Run program
 ---
 To run the program 
 ```bash
-python main.py <destinations.xml> <taxonomy.xml>
+python main.py <destinations.xml> <taxonomy.xml> /path/to/output_location
 ```
-path can be relative or absolute.
+paths can be relative or absolute.
+Remember you'll need your own xml data files.
 
 
 Requirements
