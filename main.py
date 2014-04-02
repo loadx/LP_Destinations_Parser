@@ -106,5 +106,8 @@ def main():
 
     print "\nexecution took: %0.2f seconds" % (time.time() - start_time)
 
+    print "\nThank you for considering me for this position."
+    print "To see more amazing code like this be sure to send me through to the next round."
+
 if __name__ == '__main__':
     main()
